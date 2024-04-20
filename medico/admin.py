@@ -3,3 +3,4 @@ from .models import *
 
 admin.site.register(Especialidades)
 admin.site.register(DadosMedicos)
+admin.site.register(DatasAbertas)
